@@ -1,6 +1,6 @@
 # Study improvements
 - [x] Prepare detailed hackathon README, judging evidence, demo guide and setup documentation.
-- [ ] Upload safe app source and documentation to charity-gis/Azure_study_app and verify GitHub contents.
+- [x] Upload safe app source and documentation to charity-gis/Azure_study_app and verify GitHub contents.
 - [x] Add sign-in and private cloud sync for plans, flashcard activity and quiz results.
 - [x] Verify merge rules, account-cache isolation, database permissions and existing study flows.
 - [ ] Verify signed-in two-device syncing; waiting for the first learner to sign in because no auth accounts exist yet.
