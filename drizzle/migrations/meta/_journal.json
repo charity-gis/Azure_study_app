@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792780902990,
+      "tag": "0000_ai_coach_access_state",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792782742224,
+      "tag": "0001_private_study_cloud_sync",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792782898661,
+      "tag": "0002_restrict_study_cloud_grants",
+      "breakpoints": true
+    }
+  ]
+}

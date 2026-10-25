@@ -1,0 +1,15 @@
+# Study improvements
+- [x] Prepare detailed hackathon README, judging evidence, demo guide and setup documentation.
+- [ ] Upload safe app source and documentation to charity-gis/Azure_study_app and verify GitHub contents.
+- [x] Add sign-in and private cloud sync for plans, flashcard activity and quiz results.
+- [x] Verify merge rules, account-cache isolation, database permissions and existing study flows.
+- [ ] Verify signed-in two-device syncing; waiting for the first learner to sign in because no auth accounts exist yet.
+- [x] Add a device-only study plan with selected domains, scheduled sessions and flashcard/question progress.
+- [x] Verify saved schedules, cross-page progress and phone layout.
+- [x] Add all AZ-900 syllabus domains with matching flashcard and practice links.
+- [x] Verify domain filtering and syllabus navigation.
+- [x] Expand Azure flashcards and practice questions.
+- [x] Add topic selection and missed-question retry within each quiz session.
+- [x] Verify the practice flow and phone layout.
+- [x] Finish the free topic coach with plain-language explanations and practical Azure examples; leave paid AI disabled.
+- [x] Verify topic selection and explanations on the live page.- [x] Add study timer with daily reading time and 30/45/60-minute break reminders.

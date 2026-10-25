@@ -1,0 +1,2 @@
+REVOKE ALL ON TABLE public.study_cloud_state FROM anon;
+COMMENT ON TABLE public.study_cloud_state IS 'Private account-scoped study state. Guest progress stays local; authenticated sync merges unique activity and quiz runs.';
